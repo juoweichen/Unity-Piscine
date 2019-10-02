@@ -6,4 +6,4 @@
  
 # NOT include: 
   1. demo gameplay file, file size too big<br/>
-  2. rush01 pdf in here<br/>
+  2. rush01 pdf
